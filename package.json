@@ -1,0 +1,22 @@
+{
+  "name": "urlshortener",
+  "version": "1.0.0",
+  "description": "For learning web development",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicusorN5/URLShortener.git"
+  },
+  "author": "Nicolae Tugui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicusorN5/URLShortener/issues"
+  },
+  "homepage": "https://github.com/NicusorN5/URLShortener#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
